@@ -2,9 +2,10 @@
 ## PEMOGRAMAN WEB
 ## TEKNIK INFORMATIKA
 ## UNIVERSITAS PELITA BANGSA
-NAMA    : HIDAYAT TULLOH
-NIM     : 312110110
-KELAS   : TI.21.B1
+##
+## HIDAYAT TULLOH
+## 312110110
+## TI.21.B1
 
 ## Langkah-Langkah Praktikum
 <b>Membuat Dokumen HTML Pengenalan Javascript<b>
